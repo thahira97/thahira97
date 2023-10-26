@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thahira</h1>
-<h3 align="center">I am a recent graduate of a web development bootcamp with a background in Biotechnology, I am equipped with the latest skills and technologies in the industry. With a focus on HTML, CSS, JavaScript, React, and Node.js, I have honed my skills through hands-on experience in various projects. I am a detail-oriented and collaborative team player, with a passion for delivering high-quality results. I am eager to continue learning and applying my skills in a professional setting, and am confident in my ability to contribute to any web development team.</h3>
+<h3 align="center">I am a recent graduate of a web development bootcamp with a background in Biotechnology, I am equipped with the latest skills and technologies in the industry./h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thahira97&label=Profile%20views&color=0e75b6&style=flat" alt="thahira97" /> </p>
 
