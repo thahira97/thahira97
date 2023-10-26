@@ -1,3 +1,4 @@
+<img width="1093" alt="Thahira" src="https://github.com/thahira97/thahira97/assets/116390577/d28113fe-5df3-494f-81ca-62a7ebb51ca4">
 <h1 align="center">Hi 👋, I'm Thahira</h1>
 <h3 align="center">I am a budding developer with a passion in coding and art.</h3>
 
